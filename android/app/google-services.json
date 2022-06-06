@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959109709641",
+    "project_id": "quis-app-97117",
+    "storage_bucket": "quis-app-97117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959109709641:android:830f34ae6f697207482498",
+        "android_client_info": {
+          "package_name": "com.example.git_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959109709641-hvet31qmp3nc7asgd5t9dm4qetomtqsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVoY76KbJkCzCs6Rk_OndyHkHEHI0v8Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959109709641-hvet31qmp3nc7asgd5t9dm4qetomtqsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
